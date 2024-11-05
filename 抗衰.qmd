@@ -1,0 +1,331 @@
+---
+title: "🍒 </br> 抗衰"
+subtitle: "ANTI-AGING </br> 👨🏻👩🏻👩🏻‍🦰👩👨"
+author: "</br> 龚聪聪"
+date: "`r Sys.Date()`"
+format: 
+  revealjs:
+    toc: false
+    toc-depth: 2
+    incremental: true
+    smaller: false
+    center-title-slide: true
+    slide-number: c/t
+    footer: "Gong CC 🌠"
+    theme: solarized
+    mouse-wheel: true
+    fig-align: center
+    width: 1600
+    fragments: false
+editor: visual
+---
+
+# Part One {background-image="imgs/3.jpg" background-size="contain" background-opacity="0.3"}
+
+<center><b><u style="color: darkgreen; font-size: 100px;">衰老过程及抗衰手段</u></b></center>
+
+## 1. 衰老过程
+
+::: columns
+::: column
+![](imgs/hallmarks_head.png)
+:::
+
+::: column
+Hallmarks of Aging, 必须满足三个条件：
+
+-   
+
+    1.  **伴随着衰老出现**：这些特征会随着年龄的增长逐渐显现;
+
+-   
+
+    2.  **可加速衰老发生**：通过实验手段增强该特征，可以观察到衰老进程的加速;
+
+-   
+
+    3.  **减缓或逆转衰老**：通过针对该特征进行治疗性干预，可以达到减缓、停止或逆转衰老的效果;
+:::
+:::
+
+## 1. 衰老过程
+
+|                         |                 |
+|-------------------------|-----------------|
+| ![](imgs/hallmarks.png) | ![](imgs/4.png) |
+
+::: {style="text-align: right;"}
+Source: [Hallmarks of Aging](aging_hallmarks.pdf)
+:::
+
+## 1. 衰老过程
+
+![](imgs/5.png){fig-align="center"}
+
+::: {style="text-align:right;"}
+More: [SkinAging](skinaging.pdf)
+:::
+
+## 2. 抗衰的方法 {auto-animate="true"}
+
+::: columns
+::: {.column width="40%"}
+-   **1. 二甲双胍 (Metformin)**：治疗糖尿病的药物，其机制可能涉及抑制线粒体电子传递链的复合体I，导致ATP水平下降，激活AMP激活的蛋白激酶 (AMPK)，并抑制肝脏中的糖异生。
+-   **2. NAD+前体**：通过恢复细胞中的NAD+水平，激活核和线粒体中的长寿蛋白 (sirtuins)，促进核DNA修复和表观遗传沉默，以及线粒体中活性氧 (ROS) 解毒和脂肪酸 分解代谢，还可强代谢酶活性。
+:::
+
+::: {.column width="60%"}
+![](imgs/1.png)
+:::
+:::
+
+## 2. 抗衰的方法 {auto-animate="true"}
+
+::: columns
+::: {.column width="40%"}
+-   **3. GLP-1R激动剂**：促进肝脏中胰岛素的分泌并抑制胰高血糖素的产生，同时激活下丘脑饱腹反应
+-   **4. 雷帕霉素 (Rapamycin)**：抑制TORC1的活性，从而抑制蛋白质合成和细胞生长
+-   **5. 精胺 (Spermidine)**：促进自噬，帮助清除受损线粒体和变性蛋白
+-   **6. 衰老细胞溶解剂 (Senolytics)**：[杀死衰老细胞](https://www.medchemexpress.cn/literature/anti-aging-senolytics-research.html)，减弱衰老激活的分泌反应 (SASP)，这种反应可能会引发器官功能障碍
+:::
+
+::: {.column width="60%"}
+![](imgs/1.png)
+:::
+:::
+
+## 2. 抗衰的方法 {auto-animate="true"}
+
+::: columns
+::: {.column width="40%"}
+-   **7. 益生菌 (Probiotics)**：在肠道中促进有益菌种的生长，抑制有毒菌种的繁殖。
+-   **8. 抗炎药 (Anti-inflammatories)**：减弱炎症因子的活性，这些因子是适应性免疫反应的一部分，从而减少全身性炎症。
+
+Source：[Cell Metabolism](aging_literature_cell.pdf)
+:::
+
+::: {.column width="60%"}
+![](imgs/1.png)
+:::
+:::
+
+# Part Two {background-image="https://setu.in/cdn/shop/articles/05-01_970x.jpg?v=1651834237"}
+
+<center><b><u style="color: darkgreen; font-size: 123px;">抗衰物质</u></b></center>
+
+## 3. 抗衰物质
+
+::: {.columns style="text-align:center;"}
+::: {.column .fragment .highlight-red}
+-   营养素类（微量营养素)
+    -   维生素
+    -   矿物质
+
+![](imgs/6.jpg){style="width:80%;"}
+:::
+
+::: column
+-   非营养素类
+
+    ::: {.fragment .semi-fade-out}
+    -   药物类 ([二甲双胍](https://m.medsci.cn/article/show_article.do?id=c880e867838c)、[雷帕霉素](https://www.epochtimes.com/gb/24/5/2/n14238793.htm))
+    :::
+
+    ::: {.fragment .highlight-red}
+    -   非药物类
+        -   来源于提取 (食源性)
+        -   来源于发酵 (食源性)
+        -   化学合成
+    :::
+:::
+:::
+
+## 维生素类
+
+::: columns
+::: column
+-   VC
+-   VE
+-   VA
+-   VB3
+
+> VB3: Niacinamide/烟酰胺，NAM -\> NAD+/NADP
+:::
+
+::: column
+[![](imgs/2.png)]{style="fig-align: center;"} Source: [Amanda et al. 2017 Trends in Cancers](garrido2017.pdf)
+:::
+:::
+
+## 矿物质——硒元素（Selenium） {background-image="imgs/selenocysteine-3d.png" background-opacity="0.1" background-size="contain"}
+
+Se对人体抗氧化、免疫力以及代谢平衡均有关键作用，可极大程度地延缓衰老
+
+> <u>**无机硒** 无法直接发挥功效。Se和氨基酸、肽或者酶结合成 **有机硒** 发挥生物功效</u>
+
+-   有机硒中的Se一般和半胱氨酸结合，即硒半胱氨酸（Selenocysteine）
+
+-   目前在人体中已发现了25种硒蛋白（Selenoprotein）
+
+    ::: {style="font-size:20px;"}
+    > 例如：
+    >
+    > -   含硒的酶**谷胱甘肽过氧化物酶**通过将 H₂O₂ 还原为 H₂O，并将有机过氧化物 (ROOH) 还原为醇 (ROH)，帮助将自由基反应控制在可耐受水平；
+    > -   硒依赖的谷胱甘肽过氧化物酶 (GPX1–4 和 GPX6) 和硫氧还蛋白还原酶 (TrxR1-3) 直接抑制氧化应激；其中，胞质 GPX4 对胚胎发育和细胞存活至关重要；
+    > -   GPX1 是人体中主要的硒代谢形式，能抵抗严重的氧化应激，是哺乳动物体内发现的首个硒蛋白，在通过解毒 ROS 维持氧化还原平衡方面具有特殊作用；
+    > -   硒蛋白 K 对免疫系统功能的健康促进作用已被证实；
+    :::
+
+## 矿物质——硒元素（Selenium） {background-image="imgs/selenocysteine-3d.png" background-opacity="0.1" background-size="contain"}
+
+![](imgs/se+VE_tianjinweijianwei.png){fig-align="center" width="70%"}
+
+## 矿物质——硒元素（Selenium） {background-image="imgs/selenocysteine-3d.png" background-opacity="0.1" background-size="contain"}
+
+</br> WHO 推荐Se的摄入量为$40\text{-}70\ \mu g/day$，一般的膳食很难为人体提供充足的Se </br> </br>
+
+::: columns
+::: {.column width="50%"}
+-   欧洲地区饮食摄入的Se含量一般在$30\text{-}50\ \mu g/day$;
+-   当然Se元素摄入过多（$400\ \mu g/day$）也是有害的;
+-   膳食中的Se元素含量与种植的土地有关；
+:::
+
+::: {.column width="50%"}
+![](imgs/se_dist.png){width="80%"}
+:::
+:::
+
+## 食源性非营养素物质
+
+::: columns
+::: column
+-   虾青素
+-   透明质酸钠（玻尿酸）
+-   吡咯并喹啉醌（PQQ）
+-   麦角硫因（EGT）
+-   $\alpha$-酮戊二酸（AKG）
+-   谷胱甘肽
+:::
+
+::: column
+-   人参皂苷 -\> RG1
+-   人参皂苷脂质体（外敷）
+-   虫草素/虫草多糖 (冬虫夏草、蛹虫草)
+-   富硒蛹虫草
+-   姜黄素
+-   槲皮素
+-   EGCG
+:::
+:::
+
+##  {.smaller}
+
+```{r}
+suppressMessages(
+  suppressPackageStartupMessages(
+    {
+      library(ggplot2)
+      library(data.table)
+      library(DT)
+    }
+  )
+)
+```
+
+```{r}
+data.frame(
+  "成分" = c("胶原蛋白", "虾青素", "透明质酸钠", "PQQ", "EGT", "AKG", "谷胱甘肽", "RG1/人参皂苷脂质体", "人参稀有皂苷", "虫草素/虫草多糖", "富硒蛹虫草", "精胺"),
+  "技术特点" = c(0, 0, 0, 0, 0, 0, 7.5, 9, 8.5, 0, 8, 0),
+  "市场热度" = c(8, 8, 8, 9, 8.5, 3, 8, 0, 9, 8, 6, 8),
+  "是否够新" = c(0, 0, 0, 7.5, 9, 9, 0, 9.5, 5, 0, 5, 5),
+  "壁垒性" = c(0, 0, 0, 0, 0, 5, 5, 9, 7, 0, 9, 0),
+  "学术证据" = c(9, 9, 9, 8, 8, 8, 8, 7, 8, 5, 7.5, 8)
+) |> datatable(
+  options = list(
+    pageLength = 12,    # 每页显示 11 行
+    dom = 'tip'        # 仅显示表格、分页和信息（隐藏搜索）
+  ),
+  rownames = FALSE
+) %>% 
+  formatStyle(
+    columns = c("技术特点", "市场热度", "是否够新", "壁垒性", "学术证据"),
+    valueColumns = c("技术特点", "市场热度", "是否够新", "壁垒性", "学术证据"),
+    color = styleEqual(0, "lightgray"),
+    `text-align` = "center"
+  )
+
+```
+
+## 各成分的评估
+
+```{r fig.align='center'}
+
+# 创建数据框
+dat <- data.frame(
+  "成分" = c("胶原蛋白", "虾青素", "透明质酸钠", "PQQ", "EGT", "AKG", "谷胱甘肽", "RG1/人参皂苷脂质体", "人参稀有皂苷", "虫草素/虫草多糖", "富硒蛹虫草", "精胺"),
+  "A" = c(0, 0, 0, 0, 0, 0, 7.5, 9, 8.5, 0, 8, 0),  # 技术特点
+  "B" = c(8, 8, 8, 9, 8.5, 3, 8, 0, 9, 8, 6, 8),      # 市场热度
+  "C" = c(0, 0, 0, 7.5, 9, 9, 0, 9.5, 5, 0, 5, 5),  # 是否够新
+  "D" = c(0, 0, 0, 0, 0, 5, 5, 9, 7, 0, 9, 0),    # 壁垒性
+  "E" = c(9, 9, 9, 8, 8, 8, 8, 7, 8, 5, 7.5, 8)     # 学术证据
+)
+
+# 将数据转换为data.table格式
+dt <- as.data.table(dat)
+
+# Convert data to long format
+dt_long <- melt(dt, id.vars = "成分", variable.name = "指标", value.name = "值")
+
+# Plotting radar charts with enhanced visuals
+p <- ggplot(dt_long, aes(x = 指标, y = 值, fill = 成分)) +
+  geom_bar(stat = "identity", position = "stack", show.legend = FALSE) +
+  coord_polar(theta = "x") +
+  labs(
+    caption = "本人主观打分",
+    title = "",
+    subtitle = "A: 技术特点, B: 市场热度, C: 是否够新, D: 壁垒性, E: 学术证据\n",  # Add legend explanation
+    x = "", y = ""
+  ) +
+  theme_minimal() +
+  theme(
+    axis.text.x = element_text(angle = 30, hjust = 1, size = 8),  # Rotate and resize axis labels
+    strip.text = element_text(size = 10),  # Adjust facet title font size
+    plot.subtitle = element_text(hjust = 0.5, size = 10),  # Set legend font size
+    panel.spacing = unit(1, "lines")  # Reduce space between subplots
+  ) +
+  facet_wrap(~成分, nrow = 2) +  # Set the layout to minimize blank spaces
+  scale_y_continuous(labels = NULL)
+
+# Display the plot
+print(p)
+```
+
+## 
+
+::: columns
+::: column
+-   Se
+    -   富硒耕地
+-   脂质体 (Liposome)
+    -   槲皮素脂质体
+    -   姜黄素脂质体
+    -   谷胱甘肽脂质体
+    -   人参皂苷脂质体 ....
+    
+-   发酵/酶解
+    - EGT
+    - 人参稀有皂苷
+
+![](imgs/liposome_2.png)
+:::
+
+::: column
+|                          |                          |
+|--------------------------|--------------------------|
+| ![](imgs/liposome_1.png) | ![](imgs/liposome_2.jpg) |
+| ![](imgs/vc_lip.png)     | ![](imgs/q10_lip.png)    |
+
+: 脂质体结构
+:::
+:::
